@@ -1,3 +1,3 @@
 # PRACTICE (main header)
 
-creating a new repository
+creating a new repository (description)
